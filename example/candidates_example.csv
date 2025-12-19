@@ -1,0 +1,4 @@
+id,address,lat,lon,richreport_path,notes
+OSK001,大阪府大阪市北区梅田3丁目1-1,34.702485,135.495951,richreport_sample.xlsx,近鉄梅田站附近
+OSK002,大阪府大阪市中央区難波5丁目1-60,34.667579,135.501350,richreport_sample.xlsx,難波駅直通
+OSK003,大阪府大阪市天王寺区悲田院町10-39,34.657850,135.518221,richreport_sample.xlsx,天王寺駅周辺
